@@ -6,6 +6,11 @@ helper.ipynb
 *.html
 # C extensions
 *.so
+*.xml
+*.iml
+.idea/
+temporal/
+.DS_Store
 
 # Distribution / packaging
 .Python
